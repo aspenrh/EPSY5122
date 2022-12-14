@@ -1,0 +1,4 @@
+hello world!
+we are now going to learn about file input & output
+in python
+what an exciting time!   
